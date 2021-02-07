@@ -1,2 +1,8 @@
 $ cd henry
 $ git clone (https://github.com/Yanina4/henry.git)
+$ cd henry
+$ touch archivo-ejemplo.js
+$ git status
+$ goy add archivo-eemplo.js
+$ git commit -m 'agregado nuevo archivo, archivo-ejemplo;js'
+git push
